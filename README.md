@@ -1,22 +1,22 @@
 <h1 align="center">
-  <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://github.com/lk29/clash_from_clash_backup/raw/master/docs/logo.png" alt="Clash" width="200">
   <br>Clash<br>
 </h1>
 
 <h4 align="center">A rule-based tunnel in Go.</h4>
 
 <p align="center">
-  <a href="https://github.com/Dreamacro/clash/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/Dreamacro/clash/release.yml?branch=master&style=flat-square" alt="Github Actions">
+  <a href="https://github.com/lk29/clash_from_clash_backup/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/lk29/clash_from_clash_backup/release.yml?branch=master&style=flat-square" alt="Github Actions">
   </a>
-  <a href="https://goreportcard.com/report/github.com/Dreamacro/clash">
-    <img src="https://goreportcard.com/badge/github.com/Dreamacro/clash?style=flat-square">
+  <a href="https://goreportcard.com/report/github.com/lk29/clash_from_clash_backup">
+    <img src="https://goreportcard.com/badge/github.com/lk29/clash_from_clash_backup?style=flat-square">
   </a>
-  <img src="https://img.shields.io/github/go-mod/go-version/Dreamacro/clash?style=flat-square">
-  <a href="https://github.com/Dreamacro/clash/releases">
-    <img src="https://img.shields.io/github/release/Dreamacro/clash/all.svg?style=flat-square">
+  <img src="https://img.shields.io/github/go-mod/go-version/lk29/clash_from_clash_backup?style=flat-square">
+  <a href="https://github.com/lk29/clash_from_clash_backup/releases">
+    <img src="https://img.shields.io/github/release/lk29/clash_from_clash_backup/all.svg?style=flat-square">
   </a>
-  <a href="https://github.com/Dreamacro/clash/releases/tag/premium">
+  <a href="https://github.com/lk29/clash_from_clash_backup/releases/tag/premium">
     <img src="https://img.shields.io/badge/release-Premium-00b4f0?style=flat-square">
   </a>
 </p>
